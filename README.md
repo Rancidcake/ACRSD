@@ -38,9 +38,13 @@ A comprehensive **Java Swing-based GUI** application for managing **military log
 - **UML Diagrams** for documentation (ERD, Use Case)
 
 ---
+##Agile Diagram
+
+<img width="909" alt="Screenshot 2025-04-21 at 10 17 53 AM" src="https://github.com/user-attachments/assets/53f4c328-29b3-470a-afc0-9310d35fb184" />
 
 ## EER Diagram
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/870ed120-4eb7-4ad7-afea-b8690deb8a13" />
+
 
 
 
